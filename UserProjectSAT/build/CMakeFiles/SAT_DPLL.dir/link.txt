@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\SAT_DPLL.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\SAT_DPLL.dir/objects.a @CMakeFiles\SAT_DPLL.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\SAT_DPLL.dir/objects.a -Wl,--no-whole-archive -o SAT_DPLL.exe -Wl,--out-implib,libSAT_DPLL.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SAT_DPLL.dir\linkLibs.rsp

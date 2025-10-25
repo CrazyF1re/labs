@@ -1,0 +1,4 @@
+C:/Users/Vova/Desktop/labs/UserProjectSAT/build/CMakeFiles/SAT_DPLL.dir
+C:/Users/Vova/Desktop/labs/UserProjectSAT/build/CMakeFiles/allocator_test.dir
+C:/Users/Vova/Desktop/labs/UserProjectSAT/build/CMakeFiles/edit_cache.dir
+C:/Users/Vova/Desktop/labs/UserProjectSAT/build/CMakeFiles/rebuild_cache.dir

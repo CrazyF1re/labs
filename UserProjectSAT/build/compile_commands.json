@@ -1,0 +1,50 @@
+[
+{
+  "directory": "C:/Users/Vova/Desktop/labs/UserProjectSAT/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/SAT_DPLL.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\SAT_DPLL.dir\\src\\BBV.cpp.obj -c C:\\Users\\Vova\\Desktop\\labs\\UserProjectSAT\\src\\BBV.cpp",
+  "file": "C:/Users/Vova/Desktop/labs/UserProjectSAT/src/BBV.cpp",
+  "output": "CMakeFiles/SAT_DPLL.dir/src/BBV.cpp.obj"
+},
+{
+  "directory": "C:/Users/Vova/Desktop/labs/UserProjectSAT/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/SAT_DPLL.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\SAT_DPLL.dir\\src\\boolequation.cpp.obj -c C:\\Users\\Vova\\Desktop\\labs\\UserProjectSAT\\src\\boolequation.cpp",
+  "file": "C:/Users/Vova/Desktop/labs/UserProjectSAT/src/boolequation.cpp",
+  "output": "CMakeFiles/SAT_DPLL.dir/src/boolequation.cpp.obj"
+},
+{
+  "directory": "C:/Users/Vova/Desktop/labs/UserProjectSAT/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/SAT_DPLL.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\SAT_DPLL.dir\\src\\boolinterval.cpp.obj -c C:\\Users\\Vova\\Desktop\\labs\\UserProjectSAT\\src\\boolinterval.cpp",
+  "file": "C:/Users/Vova/Desktop/labs/UserProjectSAT/src/boolinterval.cpp",
+  "output": "CMakeFiles/SAT_DPLL.dir/src/boolinterval.cpp.obj"
+},
+{
+  "directory": "C:/Users/Vova/Desktop/labs/UserProjectSAT/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/SAT_DPLL.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\SAT_DPLL.dir\\src\\strategia.cpp.obj -c C:\\Users\\Vova\\Desktop\\labs\\UserProjectSAT\\src\\strategia.cpp",
+  "file": "C:/Users/Vova/Desktop/labs/UserProjectSAT/src/strategia.cpp",
+  "output": "CMakeFiles/SAT_DPLL.dir/src/strategia.cpp.obj"
+},
+{
+  "directory": "C:/Users/Vova/Desktop/labs/UserProjectSAT/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/SAT_DPLL.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\SAT_DPLL.dir\\Allocator\\Allocator.cpp.obj -c C:\\Users\\Vova\\Desktop\\labs\\UserProjectSAT\\Allocator\\Allocator.cpp",
+  "file": "C:/Users/Vova/Desktop/labs/UserProjectSAT/Allocator/Allocator.cpp",
+  "output": "CMakeFiles/SAT_DPLL.dir/Allocator/Allocator.cpp.obj"
+},
+{
+  "directory": "C:/Users/Vova/Desktop/labs/UserProjectSAT/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/SAT_DPLL.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\SAT_DPLL.dir\\src\\main.cpp.obj -c C:\\Users\\Vova\\Desktop\\labs\\UserProjectSAT\\src\\main.cpp",
+  "file": "C:/Users/Vova/Desktop/labs/UserProjectSAT/src/main.cpp",
+  "output": "CMakeFiles/SAT_DPLL.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Vova/Desktop/labs/UserProjectSAT/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/allocator_test.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\allocator_test.dir\\Allocator\\Allocator.cpp.obj -c C:\\Users\\Vova\\Desktop\\labs\\UserProjectSAT\\Allocator\\Allocator.cpp",
+  "file": "C:/Users/Vova/Desktop/labs/UserProjectSAT/Allocator/Allocator.cpp",
+  "output": "CMakeFiles/allocator_test.dir/Allocator/Allocator.cpp.obj"
+},
+{
+  "directory": "C:/Users/Vova/Desktop/labs/UserProjectSAT/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/allocator_test.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\allocator_test.dir\\src\\allocator_stress_test.cpp.obj -c C:\\Users\\Vova\\Desktop\\labs\\UserProjectSAT\\src\\allocator_stress_test.cpp",
+  "file": "C:/Users/Vova/Desktop/labs/UserProjectSAT/src/allocator_stress_test.cpp",
+  "output": "CMakeFiles/allocator_test.dir/src/allocator_stress_test.cpp.obj"
+}
+]

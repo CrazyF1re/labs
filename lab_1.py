@@ -4,7 +4,6 @@ class Validaror:
     def IsValid(price:int) -> bool:
         pass
         #some realization
-
 class Product:
     def __init__(self, price: int) -> None:
         if not Validaror.IsValid(price):
@@ -95,8 +94,9 @@ class ILog:
     def __init__(self):
         pass
 
-    def log(data):
-        raise NotImplementedError('Method ILog.log is pure virtual')
+    def log(self,data):
+        print("hello")
+        # raise NotImplementedError('Method ILog.log is pure virtual')
 
 class FileLogger(ILog):
     def __init__(self):
@@ -114,13 +114,13 @@ class ConsoleLogger(ILog):
         print(f"Log into CONSOLE follow information: {data}")
         #some realization to log into CONSOLE
 
-class DatabaseLogger():
+class DatabaseLogger(ILog):
     def __init__(self):
         super().__init__()
 
     def log(self, data):
         print(f"Log into DATABASE follow information: {data}")
-        #some realization to log into DATABASE
+        # some realization to log into DATABASE
 
 class SMTPMailer():
     def __init__(self, log:ILog):
@@ -132,7 +132,7 @@ class SMTPMailer():
         #some realization to log into DATABASE
     
 
-db_logger = FileLogger()
+db_logger = DatabaseLogger()
 mailer = SMTPMailer(db_logger)
 mailer.log("Some data")
 
